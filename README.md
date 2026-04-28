@@ -69,7 +69,7 @@
 <h3 align="left">• 👩‍💻 Connect With Me :</h3>
 <br>
 <div align="left">
- <a href="www.linkedin.com/in/omar-al-qambashawi-3439b721b" target="_blank">
+ <a href="https://www.linkedin.com/in/omar-al-qambashawi-3439b721b" target="_blank">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
  </a>
  <a href="https://www.instagram.com/mahmoud_r_soliman/" target="_blank">
